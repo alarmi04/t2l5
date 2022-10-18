@@ -13,3 +13,7 @@ Como aparecemos en home, hacemos ls -r //etc | grep ^t
 EJERCICIO 4
 
 Como aparecemos en home, hacemos ls //dev | grep ^tty..$
+
+EJERCICIO 5
+
+Como aparecemos en home, hacemos ls //dev | grep ^tty | grep [1,2,3,4]$
