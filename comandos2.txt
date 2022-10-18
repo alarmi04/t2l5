@@ -37,3 +37,7 @@ cp ./ect/motd ./home/alumno/prueba/mensaje
 EJERICIO 19
 
 cp mensaje /prueba/dir1/ /prueba/dir2/ /prueba/dir3/ 
+
+EJERCICIO 20
+
+ls -R PRUEBA
