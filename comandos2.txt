@@ -21,3 +21,7 @@ pwd
 EJERCICIO 15
 
 ll -lia /home
+
+EJERCICIO 16
+
+mkdir PRUEBA
