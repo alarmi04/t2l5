@@ -1,3 +1,7 @@
 EJERICIO 10 
 
 cd /tmp
+
+EJERCICIO 11
+
+pwd
