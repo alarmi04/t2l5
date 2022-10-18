@@ -17,3 +17,7 @@ Como aparecemos en home, hacemos ls //dev | grep ^tty..$
 EJERCICIO 5
 
 Como aparecemos en home, hacemos ls //dev | grep ^tty | grep [1,2,3,4]$
+
+EJERCICIO 6
+
+Como aparecemos en home, hacemos ls //dev | grep ^t*C1
