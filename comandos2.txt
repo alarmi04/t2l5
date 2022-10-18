@@ -5,3 +5,7 @@ cd /tmp
 EJERCICIO 11
 
 pwd
+
+EJERCICIO 12
+
+date
