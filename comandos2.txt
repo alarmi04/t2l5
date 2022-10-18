@@ -1,0 +1,3 @@
+EJERICIO 10 
+
+cd /tmp
