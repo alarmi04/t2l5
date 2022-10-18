@@ -17,3 +17,7 @@ cd /home
 EJERCICIO 14
 
 pwd
+
+EJERCICIO 15
+
+ll -lia /home
