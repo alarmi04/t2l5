@@ -1,3 +1,7 @@
 EJERCICIO 1 
 
 Como aparecemos en home, hacemos ls -l //usr/bin
+
+EJERCICIO 2
+
+Como aparecemos en home, hacemos ls -l //tmp
