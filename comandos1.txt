@@ -29,3 +29,7 @@ ls -a
 EJERCICIO 8
 
 ls /etc -a | grep -v ^t
+
+EJERCICIO 9
+
+ls -R
