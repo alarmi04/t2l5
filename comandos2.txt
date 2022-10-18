@@ -13,3 +13,7 @@ date
 EJERCICIO 13
 
 cd /home
+
+EJERCICIO 14
+
+pwd
