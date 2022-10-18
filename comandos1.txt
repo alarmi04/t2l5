@@ -5,3 +5,11 @@ Como aparecemos en home, hacemos ls -l //usr/bin
 EJERCICIO 2
 
 Como aparecemos en home, hacemos ls -l //tmp
+
+EJERCICIO 3
+
+Como aparecemos en home, hacemos ls -r //etc | grep ^t
+
+EJERCICIO 4
+
+Como aparecemos en home, hacemos ls //dev | grep ^tty..$
