@@ -1,0 +1,3 @@
+EJERCICIO 1 
+
+Como aparecemos en home, hacemos ls -l //usr/bin
