@@ -9,3 +9,7 @@ pwd
 EJERCICIO 12
 
 date
+
+EJERCICIO 13
+
+cd /home
