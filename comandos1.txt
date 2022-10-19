@@ -33,3 +33,86 @@ ls /etc -a | grep -v ^t
 EJERCICIO 9
 
 ls -R
+
+EJERICIO 10 
+
+cd /tmp
+
+EJERCICIO 11
+
+pwd
+
+EJERCICIO 12
+
+date
+
+EJERCICIO 13
+
+cd /home
+
+EJERCICIO 14
+
+pwd
+
+EJERCICIO 15
+
+ll -lia /home
+
+EJERCICIO 16
+
+mkdir PRUEBA
+
+EJERCICIO 17 
+
+mkdir ./prueba/{dir1,dir2,dir3} && mkdir ./dir1/dir11 && mkdir ./dir3/{dir31/dir32}
+
+EJERCICIO 18
+
+cp ./ect/motd ./home/alumno/prueba/mensaje
+
+EJERICIO 19
+
+cp mensaje /prueba/dir1/ /prueba/dir2/ /prueba/dir3/ 
+
+EJERCICIO 20
+
+ls -R PRUEBA
+
+EJERCICIO 21
+
+cat el_quijjote.txt | grep Quijote | wc -w
+
+EJERCICIO 22
+
+cat el_quijote.txt | grep -v Quijote | wc -l
+
+EJERCICIO 23
+
+cat el_quijote.txt | grep Quijote | wc -l
+
+EJERCICIO 24
+
+grep -rl Quijote el_quijote.txts
+
+EJERCICIO 25
+
+sed "s/panza/barriga/g" el_quijote.txt
+
+EJERCICIO 26
+
+
+EJERCICIO 27
+
+head -c 4 el_quijote.txt
+
+EJERCICIO 28
+
+head -c 4000 el_quijote.txt
+
+EJERCICIO 29
+
+cat el_quijote.txt | awk "NR >=14 && NR <=25"
+
+EJERCICIO 30
+
+sort -rf el_quijote.txt
