@@ -1,0 +1,3 @@
+EJERCICIO 21
+
+cat el_quijjote.txt | grep Quijote | wc -w
