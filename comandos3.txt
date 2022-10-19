@@ -5,3 +5,7 @@ cat el_quijjote.txt | grep Quijote | wc -w
 EJERCICIO 22
 
 cat el_quijote.txt | grep -v Quijote | wc -l
+
+EJERCICIO 23
+
+cat el_quijote.txt | grep Quijote | wc -l
