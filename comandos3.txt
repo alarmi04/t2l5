@@ -24,3 +24,7 @@ EJERCICIO 26
 EJERCICIO 27
 
 head -c 4 el_quijote.txt
+
+EJERCICIO 28
+
+head -c 4000 el_quijote.txt
