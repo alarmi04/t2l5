@@ -17,3 +17,10 @@ grep -rl Quijote el_quijote.txts
 EJERCICIO 25
 
 sed "s/panza/barriga/g" el_quijote.txt
+
+EJERCICIO 26
+
+
+EJERCICIO 27
+
+head -c 4 el_quijote.txt
