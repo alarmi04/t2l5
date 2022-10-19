@@ -28,3 +28,11 @@ head -c 4 el_quijote.txt
 EJERCICIO 28
 
 head -c 4000 el_quijote.txt
+
+EJERCICIO 29
+
+cat el_quijote.txt | awk "NR >=14 && NR <=25"
+
+EJERCICIO 30
+
+sort -rf el_quijote.txt
